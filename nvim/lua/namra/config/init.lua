@@ -1,0 +1,5 @@
+require("namra.config.colorscheme")
+require("namra.config.treesitter")
+require("namra.config.tree")
+require("namra.config.zero")
+require("namra.config.undotree")
